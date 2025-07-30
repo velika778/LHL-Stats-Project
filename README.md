@@ -88,7 +88,7 @@ Note that I'm skipping the Yelp portion of the exercise as I don't have a busine
 
 ## Results
 
-Based on my results, one might assume there's a correlation between the number of nearby restaurants and the number of bikes available at a given station in Berlin. This seems improbable but I have no way of verifying that based on the data available.
+Given the high p-score, there does not seem to be any correlation between the variables I chose. 
 
 ## Challenges 
 
