@@ -88,7 +88,7 @@ Note that I'm skipping the Yelp portion of the exercise as I don't have a busine
 
 ## Results
 
-Given the high p-score, there does not seem to be any correlation between the variables I chose. 
+Given the small p-value, there is a strong correlation between the total number of bikes at a station and the number of restaurants nearby. However, there may be other contributing factors that are not included in this model that might better explain the observed relationship.
 
 ## Challenges 
 
